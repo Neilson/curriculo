@@ -4,7 +4,7 @@ Local: Belo Horizonte - Minas Gerias | Idade: 38 anos
 
 Gosto de curtir a vida bem próximo dos familiares e amigos. Nas horas vagas gosto de programar e ler bons livros.
 
-Atualmente trabalho na Zumpy [Zumpy](http://www.zumpy.com.br/ "Link") e em minha empresa [Powerminas](http://powerminas.com.br "link")
+Atualmente trabalho na [Zumpy](http://www.zumpy.com.br/ "Link") e em minha empresa [Powerminas](http://powerminas.com.br "link")
 
 twitter: [@_neilsonlima_](https://twitter.com/_neilsonlima_ "pessoal")  
 github: [https://github.com/Neilson](https://github.com/Neilson "pessoal")
